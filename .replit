@@ -1,0 +1,2 @@
+language = "go"
+run = "run = \"go run 'baseball stats objectupdate.go'\""
